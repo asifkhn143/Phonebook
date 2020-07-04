@@ -32,8 +32,8 @@
             <input type="text" name="contact" placeholder="contact" class="form-control" required=""><br>
 
           <div class="card-footer">
+            <a href="login.php"><button type="submit" class="btn btn-danger">Cancel</button></a>
             <input type="submit" name="signup" value="signup" class="btn btn-success float-right">
-            <a href="login.php"><button class="btn btn-danger">Cancel</button></a>
           </div>
           <br>Already have an account? <a href="login.php" class="text-danger">login</a>
         </div>
