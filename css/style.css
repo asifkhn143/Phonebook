@@ -1,0 +1,74 @@
+body{
+	background-color: azure;
+	overflow: hidden;
+	font-family: monospace;
+	font-size: 14px;
+}
+
+a{
+	text-decoration: none;
+}
+
+.navbar-brand{
+    font-size: 1.3em;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: red;
+}
+
+.fa{
+   font-size: em;
+   color: black;
+}
+
+.search{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.row{
+    padding-top: 20px;
+}
+
+.dob{
+    font-weight: bold;
+} 
+
+.name{
+	color: blue;
+}
+
+.collapse{
+	background-color: whitesmoke;
+}
+
+.table a{
+    text-decoration: none;
+    color: black;
+}
+
+.table a:hover{
+    text-decoration: none;
+    color: blue;
+}
+
+.body{
+	background-color: skyblue;
+	color: solid black;
+}
+
+label{
+	font-size: 18px;
+    padding-top: 3px;
+    padding-bottom: 2px;
+}
+
+
+b{
+	color: red;
+}
+
+.header{
+	cursor: pointer;
+}
