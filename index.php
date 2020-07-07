@@ -26,7 +26,7 @@ if (!isset($_GET['page'])) {
 }
 
 if ($page == 1) {
-  $Previous = $page - 0;
+  $Previous = $page - 0; 
   $Next = $page + 1;
 }
 
